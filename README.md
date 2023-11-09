@@ -70,7 +70,7 @@ Execute the program using runserver command.
 <tr align="center">
 <th bgcolor="grey"> Wednesday </th>
 <td bgcolor="pink"> Fundamentals of Web Application Development </td>
-<td bgcolor="pink"> Pyhon Programing </td>
+<td bgcolor="pink"> Python Programing </td>
 <td bgcolor="pink"> Principle's of Chemistry in Engineering </td>
 <td bgcolor="pink"> Calculas Matrix </td>
 </tr>
@@ -138,16 +138,22 @@ Execute the program using runserver command.
 <td bgcolor="pink"> Soft Skill </td>
 </tr>
 
+<tr>
+<th align="center" bgcolor="pink"> 7. </td>
+<td align="center" bgcolor="pink"> 19AI301 </td>
+<td bgcolor="pink"> Python Programming </td>
+</tr>
+
 </body>
 </html>
+
 
 ```
 
 ## OUTPUT
 
-![Alt text](<Screenshot (8).png>)
-
-![Alt text](<Screenshot (9).png>)
+![Alt text](<Screenshot (11).png>)
+![Alt text](<Screenshot (12).png>)
 
 
 ## RESULT
